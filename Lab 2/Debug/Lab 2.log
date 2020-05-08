@@ -1,0 +1,6 @@
+﻿  Lab 2.cpp
+e:\utm\sem 4\comp graphiics 01\lab 2\lab 2\lab 2.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\utm\sem 4\comp graphiics 01\lab 2\lab 2\lab 2.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\utm\sem 4\comp graphiics 01\lab 2\lab 2\lab 2.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\utm\sem 4\comp graphiics 01\lab 2\lab 2\lab 2.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Lab 2.vcxproj -> E:\UTM\SEM 4\Comp Graphiics 01\Lab 2\Debug\Lab 2.exe
